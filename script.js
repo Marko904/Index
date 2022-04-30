@@ -1,1 +1,3 @@
-sript.js
+function node(){
+
+}
